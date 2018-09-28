@@ -1,0 +1,7 @@
+OR A B C
+AND C F D
+set A 0
+set B 1
+set F 1
+X
+output all
