@@ -18,7 +18,7 @@ like in the repository file "circuit.txt", first you should copy it in the folde
 
 ![alt text](https://github.com/omarkamel02/LOGICSIMULATOR/blob/master/file.PNG)
 
-you write your circuit description from the left to the right and this is a must do thing !
+you write your circuit description from the left to the right and this is a must do thing ! , the gate name then the two input node, then the output
 then you set the input nodes of your circuit
 then you write X at the end of the circuit telling the simulator to calculate things
 then you start chosing which nodes you want to see and if you want to see all the nodes you just type "output all"
