@@ -30,15 +30,15 @@ logicsimulator.exe then your circuit file name " note that the file has to be in
 [command](command.PNG)
 
 # tech Used
--c++
--visual studio ide
--OOP design concepts
-object
-inheritance
-pointers
-polymorphism
-observer design pattern
-dynamic memory allocation
+- c++
+- visual studio ide
+- OOP design concepts
+ - object
+ - inheritance
+ - pointers
+ - polymorphism
+ - observer design pattern
+ - dynamic memory allocation
 
 
 
