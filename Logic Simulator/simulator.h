@@ -31,7 +31,7 @@ public:
 	//searching for the node if it doeasn't exist we creat it
 	NODE* find_or_add(string N);
 
-	//adding gate depending in it's type mentioned in the file
+	//adding gate to the gates array depending in it's type mentioned in the file
 	GATE* add_gate(string type);
 	//this function is called after there is 'X' in the file meanning that the circuit is built and every input is set 
 	//be looping through every gate in gates array and calculating it's output
