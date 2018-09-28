@@ -1,4 +1,4 @@
-# LOGICSIMULATOR
+# LOGIC SIMULATOR
 a logic gates circuit simulator
 #What is it ?
 
@@ -9,14 +9,14 @@ and it is fully designed according to the OOP design concepts
 ## Visual Studio
 
 just build it inside the ide and you will have a directory called debug inside the project file.inside it you will find the application
-[application location](application.PNG)
+[alt text](https://github.com/omarkamel02/LOGICSIMULATOR/blob/master/application.PNG)
 
 
 # Writing the simulation file
 
 like in the repository file "circuit.txt", first you should copy it in the folder where your built application is located 
 
-[file] (file.PNG)
+[alt text](https://github.com/omarkamel02/LOGICSIMULATOR/blob/master/file.PNG)
 
 you write your circuit description from the left to the right and this is a must do thing !
 then you set the input nodes of your circuit
@@ -27,7 +27,7 @@ then you start chosing which nodes you want to see and if you want to see all th
 open your command prompt then access the folder containing the built application file and then type 
 logicsimulator.exe then your circuit file name " note that the file has to be in the same folder with the application
 
-[command](command.PNG)
+[alt text](https://github.com/omarkamel02/LOGICSIMULATOR/blob/master/command.PNG)
 
 # tech Used
 - c++
